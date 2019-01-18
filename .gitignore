@@ -23,3 +23,8 @@
 /dist/
 /nbdist/
 /.nb-gradle/
+/mvnw.cmd
+/mvnw
+/zeus.iml
+/.idea/
+/.mvn/
